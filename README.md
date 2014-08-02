@@ -11,6 +11,7 @@ provides access to files known to [fasd](https://github.com/clvv/fasd).
 
 # Usage
 
-To show frequently or recently accessed files fasd know about execute
+To show frequently or recently accessed files fasd knows about execute
     :Unite fasd
-in Vim.
+
+in Vim (or map it).
